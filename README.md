@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - See Solution [here](https://github.com/abdishukri-105/qr-code-component)
-- visit Live Site  [here]()
+- visit Live Site  [here](https://qr-code-component-rose-alpha.vercel.app/)
 
 ## My process
 
